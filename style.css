@@ -1,0 +1,161 @@
+body
+{
+	background-color: #000000;
+	font-family:courier new, monospace;
+	color: #DCDCDC;
+	font-size: 28px;
+	text-align: center;
+}
+
+.tytul
+{
+	font-size: 50px;
+	text-decoration-line: underline;
+}
+
+.instrukcja
+{
+	
+	
+	
+}
+
+.przyklad
+{
+	font-size: 35px;
+	text-decoration-line: underline;
+	text-decoration-style: dotted;
+	
+}
+
+.tytulsprawdzian
+{
+	font-weight: bold;
+	
+}
+
+
+.tekst:hover
+{
+	cursor: default;
+	
+}
+
+
+
+#test
+{
+	
+	
+}
+
+.guzik
+{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	margin: auto;
+	width: 250px;
+	
+}
+
+.guzik:hover
+{
+	color: yellow;
+	border-color: yellow;
+	cursor: pointer;
+}
+
+#rezultat
+{
+	
+	
+	
+}
+
+.powrot
+{
+	text-align: center;
+	color: white;
+	margin: auto;
+	width: 250px;
+	text-decoration-line: none;
+	font-size: 30px;
+}
+
+.powrot:hover
+
+{
+	color: yellow;
+	border-color: yellow;
+	cursor: pointer;
+	
+	
+}
+
+.guziki
+{
+	width: 150px;
+	height: 30px;
+	text-decoration: none;
+	color: white;
+	text-align:center;
+	padding: 5px;
+	border: 2px solid white;
+	float: center;
+	cursor: pointer;
+	border-radius: 15px;
+	
+	
+}
+.guziki:hover
+{
+	color: yellow;
+	border-color: yellow;
+	
+	
+}
+.glowna
+{
+	margin: auto 21%;
+
+
+
+}
+
+.przyciski
+{
+	text-align: center;
+	cursor: pointer;
+	width: 80px;
+	margin: 5px auto;
+	
+}
+
+.przyciski:hover
+{
+	color: yellow;
+	
+	
+}
+
+.pytanie
+{
+	cursor: default;
+	text-align:center;
+	
+}
+
+.ustawsiecholero
+{
+	float: left;
+	width: 20%;
+	height: 200px;
+}
+.tytulik
+{
+	font-weight: bold;
+	font-size: 40px;
+	
+	
+}
